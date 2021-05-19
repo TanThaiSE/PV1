@@ -1,0 +1,73 @@
+{
+  "result": "success",
+  "content": [
+    {
+      "post_id": "c5a1a37e-ce1d-4def-ab44-894a963096d5",
+      "user_id": "48d810f2-04f9-4273-9cab-dfd2a1cca7bb",
+      "title": "Cách dùng wichart",
+      "description": "Ai giúp tôi cách dùng wichart",
+      "uploadDate": "2021-05-12T23:46:06.446Z",
+      "type": 2,
+      "author": {
+        "name": "Trần Ngọc Báu",
+        "img": "https://i.imgur.com/OKsbDL5.png"
+      },
+      "comments": []
+    },
+    {
+      "post_id": "a646480e-29c9-4dff-a5db-21c7ba312a1e",
+      "user_id": "7698d42e-faa7-4750-994e-8d7bc9f45b0a",
+      "title": "Chi tiết bản nâng cấp Workspace (20/04/2021)",
+      "description": "Những chi tiết đã được nâng cấp/sửa đổi:\n- Platform Workspace tương thích với mọi thiết bị.\n- Thêm ảnh người đăng và chuyên mục vào nội dung bài viết.\n- Nhấn vào chuyên mục kế bên tên người đăng để tìm những bài viết cùng chuyên mục.\n- Cho phép xuống hàng khi đăng/trả lời bài viết.\n- Gửi mail thông báo đến người đăng bài viết khi có người bình luận bài viết của mình.\n- Hiển thị nhanh thông tin khi nhấp vào ảnh/tên trên bài viết/bình luận.\n- Cải thiện trải nghiệm loading.\n- Email có thể đăng nhập cả bằng chữ hoa lẫn chữ thường.\n- Sửa các lỗi đã feedback.",
+      "uploadDate": "2021-04-19T15:28:59.352Z",
+      "type": 3,
+      "author": {
+        "name": "Huy Bùi",
+        "img": "https://i.imgur.com/xnwhfxB.jpg"
+      },
+      "comments": [
+        {
+          "commentId": "f4d32a78-71de-4814-9d2c-33b8bddccf30",
+          "user_id": "48d810f2-04f9-4273-9cab-dfd2a1cca7bb",
+          "author": "Trần Ngọc Báu",
+          "avatar": "https://i.imgur.com/OKsbDL5.png",
+          "datetime": "2021-04-20T05:23:23.135Z",
+          "content": "Cảm ơn Huy nhé! rất good!",
+          "timestamp": 1618896203
+        }
+      ]
+    },
+    {
+      "post_id": "56896a5b-4989-4b66-8417-9b1a8cf8b686",
+      "user_id": "7698d42e-faa7-4750-994e-8d7bc9f45b0a",
+      "title": "Platform Workspace của Wigroup chính thức đưa vào hoạt động",
+      "description": "Mọi người vào link: https://work.wigroup.vn/ với email lúc điền form cấp tài khoản để sử dụng Workspace. \nPassword mặc định là: 123",
+      "uploadDate": "2021-04-14T20:33:28.718Z",
+      "type": 3,
+      "author": {
+        "name": "Huy Bùi",
+        "img": "https://i.imgur.com/xnwhfxB.jpg"
+      },
+      "comments": [
+        {
+          "commentId": "14136992-9fc3-4a65-a4fb-e1a62917453e",
+          "user_id": "255ccea3-cf82-4397-9fac-2dbd2bc071d2",
+          "author": "Nguyễn Đức Mạnh",
+          "avatar": "https://i.imgur.com/SG6JgyC.jpg",
+          "datetime": "2021-04-25T03:24:32.587Z",
+          "content": "Cảm ơn nha",
+          "timestamp": 1619321072
+        },
+        {
+          "commentId": "e7127d5d-10c4-445c-81f5-6b3231075c6f",
+          "user_id": "991df225-f80c-4968-a786-7dcde01c25c2",
+          "author": "Bùi Hoàng Hoài Như",
+          "avatar": "https://i.imgur.com/Jrd77nt.jpg",
+          "datetime": "2021-04-15T03:11:25.525Z",
+          "content": "cảm ơn huu\n",
+          "timestamp": 1618456285
+        }
+      ]
+    }
+  ]
+}
